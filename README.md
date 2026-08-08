@@ -1,21 +1,102 @@
-# 💫 About Me:
-🔭 I'm currently working on two SaaS projects: an embeddable website chatbot widget and a WhatsApp CRM<br>🌱 I'm currently learning VPS deployment, workflow automation, APIs/endpoints, WebSockets, server management, webhooks, bots, and Supabase/Firebase<br>👯 I'm looking to collaborate on beta testing with real business owners<br>🙋 I'm looking for help with getting my products in front of Pakistani businesses<br>💬 Ask me about building a full SaaS platform (auth, dashboards, chatbots, deployment) in 6 months with zero tutorials<br>⚡ Fun fact: I'm a solo founder with no team, no funding, just me, a laptop, and Internet
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
+  <img src="banner.svg?v=1" alt="Muhammad Tariq — AI Automation Engineer" width="100%">
+</picture>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tariq19/) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tariq-bawany&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=tariq-bawany&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tariq-bawany&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tariq-bawany&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<table align="center">
+<tr>
+<td width="220" align="center" valign="top">
+<img src="lanyard.svg?v=1" alt="Muhammad Tariq ID badge" width="200">
+</td>
+<td valign="middle">
 
----
-[![](https://komarev.com/ghpvc/?username=tariq-bawany&icon=0&color=0)](https://visitcount.itsvg.in)
+### Hey, I'm Tariq 👋
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 I'm currently working on **two SaaS projects**: an embeddable website chatbot widget and a WhatsApp CRM
+- 🌱 I'm currently learning VPS deployment, workflow automation, APIs/endpoints, WebSockets, server management, webhooks, bots, and Supabase/Firebase
+- 👯 I'm looking to collaborate on **beta testing** with real business owners
+- 🙋 I'm looking for help getting my products in front of **Pakistani businesses**
+- 💬 Ask me about building a full SaaS platform (auth, dashboards, chatbots, deployment) in 6 months with zero tutorials
+- ⚡ Fun fact: I'm a **solo founder** — no team, no funding, just me, a laptop, and the internet
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🚀 Projects
+
+<div align="center">
+
+| 🎯 Project | 💻 Stack | 📝 Description |
+| --- | --- | --- |
+| [💬 Chatbot Widget](https://github.com/tariq-bawany/chatbot-widget) | `JavaScript` `Vite` `n8n` | Embeddable website chatbot widget for small businesses |
+| [📱 WhatsApp CRM](https://github.com/tariq-bawany/whatsapp-crm) | `Python` `JavaFX` `n8n` | Lead + customer management CRM built around WhatsApp |
+| [🌐 Portfolio](https://github.com/tariq-bawany/portfolio) | `HTML` `CSS` `JS` `Bootstrap` `Tailwind` | Personal portfolio & project showcase |
+
+<sub>⚠️ Update these links to your real repo URLs.</sub>
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats & Graphs
+
+<div align="center">
+
+<img src="stats.svg?v=1" alt="GitHub stats" width="48%">
+<img src="langs.svg?v=1" alt="Top languages" width="48%">
+
+<br><br>
+
+<img src="trophies.svg?v=1" alt="GitHub trophies" width="98%">
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tariq-bawany&bg_color=170a26&color=ff7eb6&line=ff2e8c&point=e879f9&area=true&hide_border=true&custom_title=Contribution%20Graph">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tariq-bawany&bg_color=fff5fb&color=8b2fd1&line=e0217a&point=a742f5&area=true&hide_border=true&custom_title=Contribution%20Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tariq-bawany&bg_color=170a26&color=ff7eb6&line=ff2e8c&point=e879f9&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution activity graph" width="98%">
+</picture>
+
+</div>
+
+<br>
+
+## 🐍 Watch the snake eat my contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tariq-bawany/tariq-bawany/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tariq-bawany/tariq-bawany/output/github-snake-light.svg">
+  <img src="https://raw.githubusercontent.com/tariq-bawany/tariq-bawany/output/github-snake-dark.svg" alt="Contribution snake" width="98%">
+</picture>
+
+</div>
+
+<br>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-ff2e8c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.tariq.19.03.2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-a742f5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tariq-bawany)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff2e8c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tariq19/)
+
+<img src="https://komarev.com/ghpvc/?username=tariq-bawany&color=ff2e8c&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
+
+<br><br>
+
+*⭐️ Turning ideas into products — alone.* 💗
+
+</div>
