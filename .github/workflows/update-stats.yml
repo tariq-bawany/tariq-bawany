@@ -1,0 +1,48 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    # Runs once a day at 00:30 UTC (offset from the snake job)
+    - cron: "30 0 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch: {}
+
+jobs:
+  update-stats:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch real GitHub stats
+        working-directory: scripts
+        env:
+          GH_USERNAME: ${{ github.repository_owner }}
+          # A classic PAT with `read:user` scope, added as a repo secret.
+          # Falls back to the built-in GITHUB_TOKEN (no commit-history access) if unset.
+          GH_TOKEN: ${{ secrets.STATS_PAT }}
+        run: python3 fetch_stats.py
+
+      - name: Generate stats.svg / langs.svg / trophies.svg
+        working-directory: scripts
+        run: |
+          python3 generate_stats.py
+          python3 generate_langs.py
+          python3 generate_trophies.py
+          cp stats.svg langs.svg trophies.svg ../
+
+      - name: Commit updated SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh profile stats [skip ci]"
+          file_pattern: "stats.svg langs.svg trophies.svg"

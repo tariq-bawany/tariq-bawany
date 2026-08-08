@@ -59,6 +59,8 @@
 
 <img src="trophies.svg?v=1" alt="GitHub trophies" width="98%">
 
+<sub>🔄 Stats, languages & trophies refresh automatically every day via GitHub Actions.</sub>
+
 <br><br>
 
 <picture>
