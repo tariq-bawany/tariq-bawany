@@ -2,8 +2,8 @@ name: Update Profile Stats
 
 on:
   schedule:
-    # Runs once a day at 00:30 UTC (offset from the snake job)
-    - cron: "30 0 * * *"
+    # Runs only on Sunday at 00:30 UTC (offset from the snake job)
+    - cron: "30 0 * * 0"
   push:
     branches:
       - main
