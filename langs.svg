@@ -14,73 +14,73 @@
     <g transform="translate(24,50)" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.50s" dur="0.4s" fill="freeze"/>
     <text x="0" y="-6" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#eaf3ff">TypeScript</text>
-    <text x="430" y="-6" text-anchor="end" font-family="'Consolas',monospace" font-size="12" fill="#7d94b8">26.7%</text>
+    <text x="430" y="-6" text-anchor="end" font-family="'Consolas',monospace" font-size="12" fill="#7d94b8">25.7%</text>
     <rect x="0" y="0" width="430" height="9" rx="4.5" fill="rgba(255,255,255,0.05)" stroke="rgba(0,217,255,0.18)" stroke-width="0.75"/>
     <rect x="0" y="0" width="0" height="9" rx="4.5" fill="#3178c6">
-        <animate attributeName="width" from="0" to="114.8" begin="0.60s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="width" from="0" to="110.5" begin="0.60s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
     </rect>
     <rect x="0" y="0" width="0" height="9" rx="4.5" fill="#ffffff" opacity="0.25">
-        <animate attributeName="width" from="0" to="114.8" begin="0.60s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="width" from="0" to="110.5" begin="0.60s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
         <animate attributeName="opacity" values="0.25;0" begin="1.50s" dur="0.6s" fill="freeze"/>
     </rect>
 </g><g transform="translate(24,83)" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.4s" fill="freeze"/>
     <text x="0" y="-6" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#eaf3ff">Java</text>
-    <text x="430" y="-6" text-anchor="end" font-family="'Consolas',monospace" font-size="12" fill="#7d94b8">26.2%</text>
+    <text x="430" y="-6" text-anchor="end" font-family="'Consolas',monospace" font-size="12" fill="#7d94b8">25.2%</text>
     <rect x="0" y="0" width="430" height="9" rx="4.5" fill="rgba(255,255,255,0.05)" stroke="rgba(0,217,255,0.18)" stroke-width="0.75"/>
     <rect x="0" y="0" width="0" height="9" rx="4.5" fill="#b07219">
-        <animate attributeName="width" from="0" to="112.7" begin="0.75s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="width" from="0" to="108.4" begin="0.75s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
     </rect>
     <rect x="0" y="0" width="0" height="9" rx="4.5" fill="#ffffff" opacity="0.25">
-        <animate attributeName="width" from="0" to="112.7" begin="0.75s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="width" from="0" to="108.4" begin="0.75s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
         <animate attributeName="opacity" values="0.25;0" begin="1.65s" dur="0.6s" fill="freeze"/>
     </rect>
 </g><g transform="translate(24,116)" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.80s" dur="0.4s" fill="freeze"/>
     <text x="0" y="-6" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#eaf3ff">C</text>
-    <text x="430" y="-6" text-anchor="end" font-family="'Consolas',monospace" font-size="12" fill="#7d94b8">13.7%</text>
+    <text x="430" y="-6" text-anchor="end" font-family="'Consolas',monospace" font-size="12" fill="#7d94b8">13.2%</text>
     <rect x="0" y="0" width="430" height="9" rx="4.5" fill="rgba(255,255,255,0.05)" stroke="rgba(0,217,255,0.18)" stroke-width="0.75"/>
     <rect x="0" y="0" width="0" height="9" rx="4.5" fill="#555555">
-        <animate attributeName="width" from="0" to="58.9" begin="0.90s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="width" from="0" to="56.8" begin="0.90s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
     </rect>
     <rect x="0" y="0" width="0" height="9" rx="4.5" fill="#ffffff" opacity="0.25">
-        <animate attributeName="width" from="0" to="58.9" begin="0.90s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="width" from="0" to="56.8" begin="0.90s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
         <animate attributeName="opacity" values="0.25;0" begin="1.80s" dur="0.6s" fill="freeze"/>
     </rect>
 </g><g transform="translate(24,149)" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.95s" dur="0.4s" fill="freeze"/>
-    <text x="0" y="-6" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#eaf3ff">CSS</text>
-    <text x="430" y="-6" text-anchor="end" font-family="'Consolas',monospace" font-size="12" fill="#7d94b8">11%</text>
+    <text x="0" y="-6" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#eaf3ff">HTML</text>
+    <text x="430" y="-6" text-anchor="end" font-family="'Consolas',monospace" font-size="12" fill="#7d94b8">12.7%</text>
     <rect x="0" y="0" width="430" height="9" rx="4.5" fill="rgba(255,255,255,0.05)" stroke="rgba(0,217,255,0.18)" stroke-width="0.75"/>
-    <rect x="0" y="0" width="0" height="9" rx="4.5" fill="#563d7c">
-        <animate attributeName="width" from="0" to="47.3" begin="1.05s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    <rect x="0" y="0" width="0" height="9" rx="4.5" fill="#e34c26">
+        <animate attributeName="width" from="0" to="54.6" begin="1.05s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
     </rect>
     <rect x="0" y="0" width="0" height="9" rx="4.5" fill="#ffffff" opacity="0.25">
-        <animate attributeName="width" from="0" to="47.3" begin="1.05s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="width" from="0" to="54.6" begin="1.05s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
         <animate attributeName="opacity" values="0.25;0" begin="1.95s" dur="0.6s" fill="freeze"/>
     </rect>
 </g><g transform="translate(24,182)" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.10s" dur="0.4s" fill="freeze"/>
-    <text x="0" y="-6" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#eaf3ff">JavaScript</text>
-    <text x="430" y="-6" text-anchor="end" font-family="'Consolas',monospace" font-size="12" fill="#7d94b8">10.5%</text>
+    <text x="0" y="-6" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#eaf3ff">CSS</text>
+    <text x="430" y="-6" text-anchor="end" font-family="'Consolas',monospace" font-size="12" fill="#7d94b8">10.6%</text>
     <rect x="0" y="0" width="430" height="9" rx="4.5" fill="rgba(255,255,255,0.05)" stroke="rgba(0,217,255,0.18)" stroke-width="0.75"/>
-    <rect x="0" y="0" width="0" height="9" rx="4.5" fill="#f1e05a">
-        <animate attributeName="width" from="0" to="45.1" begin="1.20s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    <rect x="0" y="0" width="0" height="9" rx="4.5" fill="#563d7c">
+        <animate attributeName="width" from="0" to="45.6" begin="1.20s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
     </rect>
     <rect x="0" y="0" width="0" height="9" rx="4.5" fill="#ffffff" opacity="0.25">
-        <animate attributeName="width" from="0" to="45.1" begin="1.20s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="width" from="0" to="45.6" begin="1.20s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
         <animate attributeName="opacity" values="0.25;0" begin="2.10s" dur="0.6s" fill="freeze"/>
     </rect>
 </g><g transform="translate(24,215)" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.25s" dur="0.4s" fill="freeze"/>
-    <text x="0" y="-6" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#eaf3ff">HTML</text>
-    <text x="430" y="-6" text-anchor="end" font-family="'Consolas',monospace" font-size="12" fill="#7d94b8">9.6%</text>
+    <text x="0" y="-6" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#eaf3ff">JavaScript</text>
+    <text x="430" y="-6" text-anchor="end" font-family="'Consolas',monospace" font-size="12" fill="#7d94b8">10.4%</text>
     <rect x="0" y="0" width="430" height="9" rx="4.5" fill="rgba(255,255,255,0.05)" stroke="rgba(0,217,255,0.18)" stroke-width="0.75"/>
-    <rect x="0" y="0" width="0" height="9" rx="4.5" fill="#e34c26">
-        <animate attributeName="width" from="0" to="41.3" begin="1.35s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    <rect x="0" y="0" width="0" height="9" rx="4.5" fill="#f1e05a">
+        <animate attributeName="width" from="0" to="44.7" begin="1.35s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
     </rect>
     <rect x="0" y="0" width="0" height="9" rx="4.5" fill="#ffffff" opacity="0.25">
-        <animate attributeName="width" from="0" to="41.3" begin="1.35s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="width" from="0" to="44.7" begin="1.35s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
         <animate attributeName="opacity" values="0.25;0" begin="2.25s" dur="0.6s" fill="freeze"/>
     </rect>
 </g>
