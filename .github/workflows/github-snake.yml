@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     # Runs once a day at 00:00 UTC
-    - cron: "0 0 * * *"
+    - cron: "30 0 * * 0"
   push:
     branches:
       - main
